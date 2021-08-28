@@ -1,6 +1,6 @@
 # grpc-goui
 
-A wrapper over grpc-ui to spawn mutiple reflection based clients connections
+A Golang wrapper over grpc-ui with HTML templates to spawn mutiple reflection based clients connections
 
 ![Demo](assets/demo.gif)
 
